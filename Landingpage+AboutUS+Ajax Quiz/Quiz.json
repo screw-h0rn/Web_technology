@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the output of 'console.log(2 + 2 * 3)' in JavaScript?",
+            "options": ["8", "10", "6", "12"],
+            "answer": "8"
+        },
+        {
+            "id": 2,
+            "question": "Which data type is used to represent true/false values in JavaScript?",
+            "options": ["String", "Boolean", "Number", "Array"],
+            "answer": "Boolean"
+        },
+        {
+            "id": 3,
+            "question": "What does HTML stand for?",
+            "options": ["Hypertext Markup Language", "Hyperlink and Text Markup Language", "Hyperlink and Text Makeup Language", "Hypertext Markup Linguistics"],
+            "answer": "Hypertext Markup Language"
+        },
+        {
+            "id": 4,
+            "question": "Which programming language is known as the 'language of the web'?",
+            "options": ["JavaScript", "Python", "Java", "C++"],
+            "answer": "JavaScript"
+        },
+        {
+            "id": 5,
+            "question": "What does CSS stand for?",
+            "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Coded Style Sheets"],
+            "answer": "Cascading Style Sheets"
+        },
+        {
+            "id": 6,
+            "question": "What is the result of '10 % 3' in JavaScript?",
+            "options": ["3", "1", "0", "10"],
+            "answer": "1"
+        },
+        {
+            "id": 7,
+            "question": "What does API stand for?",
+            "options": ["Application Programming Interface", "Automated Programming Interface", "Application Protocol Interface", "Automated Protocol Interface"],
+            "answer": "Application Programming Interface"
+        },
+        {
+            "id": 8,
+            "question": "Which symbol is used for comments in JavaScript?",
+            "options": ["//", "/* */", "#", "<!-- -->"],
+            "answer": "//"
+        },
+        {
+            "id": 9,
+            "question": "What is the output of 'console.log(typeof([]))' in JavaScript?",
+            "options": ["'array'", "'object'", "'arrayobject'", "'list'"],
+            "answer": "'object'"
+        },
+        {
+            "id": 10,
+            "question": "Which of the following is a CSS preprocessor?",
+            "options": ["Sass", "React", "Vue", "Angular"],
+            "answer": "Sass"
+        }
+    ]
+}
